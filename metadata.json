@@ -1,0 +1,6 @@
+{
+  "name": "Did I Lock It? — Household Departure Checklist & Nagging Geofence",
+  "description": "Smart pre-departure checklist for doors, stove, iron, and garage with multi-user household sync and nagging location alerts if you leave home without checking.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
